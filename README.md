@@ -3,4 +3,4 @@ A simple Maze game with Maze Genration Visualization
 
 
 
-For running it add two songs that you want to data folder named A.wav and B.wav
+For running it make sure u unzip A.zip and B.zip in /Maze/data
