@@ -1,2 +1,2 @@
 # Maze.Exe
-A simple maze generator with solutions and a way to play it
+A simple Maze game with Maze Genration Visualization 
